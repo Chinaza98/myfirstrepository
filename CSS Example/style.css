@@ -1,0 +1,11 @@
+#centered-text {
+    text-align: center;
+    font-size: 2in;
+    color:aquamarine
+}
+
+.styledFont {
+    font-family: Comic sans-serif;
+    font-size: 1.5in;
+    color: brown;
+}
